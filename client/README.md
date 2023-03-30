@@ -7,9 +7,10 @@ This project is a simple chat app using nodejs as backend and reactjs as fronten
 To install and run this project, follow these steps:
 
 1. Clone this repository.
-2. Install dependencies using the command `npm install` in both client and server side .
-3. Start the server using the command `npm start`.
-4. Open the app in the browser: `http://localhost:3000`.
+2. Install dependencies using the command `npm install` in client side .
+3. Install dependencies using the command `npm install express nodemon socket.io cors` in server side .
+4. Start the server using the command `npm start`.
+5. Open the app in the browser: `http://localhost:3000`.
 
 ### `npm start`
 
